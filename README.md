@@ -1,2 +1,2 @@
 # VaR-Calculation
-examples of VaR Calculation
+Examples of VaR Calculation
